@@ -1,5 +1,5 @@
 {
   "listen_url": "0.0.0.0:3333",
   "use_tls": false,
-  "trusted_origins": ["gophish-production-a7b5.up.railway.app"]
+  "trusted_origins": ["gophish.railway.internal"]
 }
